@@ -1,0 +1,449 @@
+{
+  "header": {
+    "shop": "Shop",
+    "women": "Women",
+    "men": "Men",
+    "kid": "Kid",
+    "accessories": "Accessories",
+    "about": "About Us",
+    "contact": "Contact Us",
+    "category": "Product Category",
+
+    "language": {
+      "vn": "Vietnamese",
+      "en": "English"
+    }
+  },
+
+  "footer": {
+    "description": "Online store, Fashion Store available in Hanoi - HoChiMinh & accepts orders for delivery within 5-10 days",
+    "company": {
+      "title": "Company",
+      "about": "About Us",
+      "blog": "Blog",
+      "contact": "Contact Us",
+      "carrer": "Carrer"
+    },
+    "customer": {
+      "title": "Services",
+      "account": "My Account",
+      "order": "Track Your Order",
+      "return": "Return Policy",
+      "faq": "FAQ"
+    },
+    "in4": {
+      "title": "Information",
+      "account": "Privacy",
+      "order": "Terms & Condition",
+      "return": "Return Policy",
+      "faq": "History"
+    },
+    "contact": {
+      "title": "Contact Info",
+      "account": "0123456789",
+      "order": "My mail",
+      "return": "Our Location",
+      "faq": "Open 24/7"
+    },
+    "copyright": "Fashion Store"
+  },
+
+  "homepage": {
+    "banner": {
+      "title": "Step into Style: Your Ultimate Fashion Destination",
+      "description": "The Ultimate Fashion Destination for enthusiasts, where you can explore and combine the most unique and upscale fashion styles.",
+      "button": "Shop Now"
+    },
+
+    "policy": {
+      "shipping": {
+        "title": "Free Shipping",
+        "detail": "Free shipping for order above 250$"
+      },
+      "payment": {
+        "title": "Information Security",
+        "detail": "Information is kept safe and secure"
+      },
+      "support": {
+        "title": "24/7 Support",
+        "detail": "We support online all days"
+      }
+    },
+
+    "product": {
+      "items": "Items",
+      "shoes": {
+        "title": "Shoes-Sandal",
+        "all": "All Products"
+      },
+      "clothes": {
+        "title": "Clothes",
+        "blazer": "Blazer",
+        "shirt": "T-Shirts & Shirts",
+        "jeans": "Jeans",
+        "jacket": "Jackets & Coats",
+        "all": "All Clothes"
+      },
+      "access": {
+        "title": "Accessories",
+        "watch": "Watches",
+        "bag": "Handbags",
+        "glass": "Glasses",
+        "necklace": "Necklaces",
+        "all": "All Accesories"
+      }
+    },
+
+    "top-sell": {
+      "title": "Our Products",
+      "description": "Top Seller Products",
+      "category": {
+        "all": "All",
+        "women": "Women",
+        "men": "Men",
+        "accessories": "Accessories"
+      }
+    },
+
+    "suggest": "Suggestion For You",
+
+    "follow": {
+      "title": "Follow Us",
+      "subtitle": "Follow Us On Social Media"
+    }
+  },
+
+  "products": {
+    "filter": {
+      "title": "Filter Options",
+      "gender": {
+        "title": "Gender",
+        "men": "Men",
+        "women": "Women",
+        "kid": "Kid",
+        "uni": "Unisex"
+      },
+      "category": {
+        "title": "Category",
+        "shoe": "Shoes",
+        "clothes": "Clothes",
+        "accessories": "Accessories",
+        "other": "Other"
+      },
+      "brand": "Brand",
+      "price": "Price",
+      "color": "Color",
+      "size": "Size",
+
+      "done": "Apply"
+    },
+    "show": "Showing",
+    "of": "of",
+    "result": "results",
+    "sort": {
+      "title": "Sort by:",
+      "default": "Default Sorting",
+      "alpha": "Alphabet"
+    },
+    "active": "Active Filter",
+    "clear": "Clear All"
+  },
+
+  "product": {
+    "color": "Color:",
+    "size": "Size:",
+    "view": "View Size Guide",
+    "stock": {
+      "out": "Out of Stock",
+      "in": "In Stock",
+      "max": "The amount of product in stock has reached its limit"
+    },
+    "quantity": "Quantity:",
+    "add": "Add to Cart",
+    "description": "Description",
+    "add-infor": {
+      "title": "Additional Information",
+      "feat": "Feature",
+      "des": "Description",
+      "material": "Material",
+      "size": "Size",
+      "color": "Color",
+      "country": "Country of Origin",
+      "brand": "Brand"
+    },
+    "out": "Accepts orders for delivery within 5-10 days",
+    "empty": "Empty Cart, No Products Here",
+    "review": "Review",
+    "reviews": "reviews",
+    "star": "Star",
+    "5star": "Amazing Product!",
+    "4star": "Good Product!",
+    "3star": "Normal Product!",
+    "2star": "Not Good Product!",
+    "1star": "Bad Product!",
+    "verify": "Verified",
+    "review-list": "Review List",
+    "new": "Newest",
+    "old": "Oldest",
+    "no-review": "This product currently does not have any reviews. Buy it and leave your first review!",
+    "related": {
+      "title": "Related Products",
+      "subtitle": "Explore Related Products"
+    }
+  },
+
+  "cart": {
+    "product": "Product",
+    "price": "Price",
+    "quantity": "Quantity",
+    "sub": "Subtotal",
+    "color": "Color:",
+    "size": "Size:",
+    "order": {
+      "title": "Order Summary",
+      "item": "Items",
+      "sub": "Sub Total",
+      "tax": "Taxes",
+      "total": "Grand Total",
+      "ship": "Noice: The price doesn't include shipping fees",
+      "proceed": "Proceed to Checkout",
+      "back": "Go to Shop",
+      "login": "You have to login first"
+    }
+  },
+
+  "wishlist": {
+    "product": "Product",
+    "price": "Price",
+    "date": "Date Added",
+    "stock": "Stock Status"
+  },
+
+  "checkout": {
+    "step1": "Address Information",
+    "step2": "Payment Mehod",
+    "step3": "Confirm Order",
+    "address": {
+      "name": "Full Name",
+      "ex-name": "Ex. John Doe",
+      "required-name": "Name should be at least 2 characters",
+
+      "phone": "Phone Number",
+      "ex-phone": "Ex. 0123456789",
+      "required-phone": "Please enter correct phone number",
+
+      "city": "City/Province",
+      "ex-city": "Choose City/Province",
+      "required-city": "Please choose City/Province",
+
+      "district": "District",
+      "ex-district": "Choose District",
+      "required-district": "Please choose District",
+
+      "ward": "Wards",
+      "ex-ward": "Choose Wards",
+      "required-ward": "Please choose Wards",
+
+      "deliver": "Delivery Address",
+      "ex-deliver": "Ex. bulding abc street xyz",
+      "required-deliver": "Please enter your Delivery Address",
+
+      "note": "Note",
+      "ex-note": "Take note here"
+    },
+
+    "payment": "We currently do not support payment functions via Web services, please contact us via social networking platforms to pay for this order, Thank you very much <3.",
+
+    "confirm": {
+      "receiver": "Receiver's Information",
+      "name": "Name:",
+      "phone": "Phone:",
+      "address": "Address: ",
+      "note": "Note:",
+      "no-note": "No Information",
+
+      "method": "Payment Method",
+      "payment": "Payment throught",
+
+      "list": "List Product",
+
+      "total": "Subtotal: ",
+      "shipping": "Items: ",
+      "discount": "Discount: ",
+      "total-pay": "Grandtotal (Included VAT):",
+
+      "button": "Confirm Order",
+      "error": "An Error Occurred, Please Try Again Later",
+      "success" : "Order Successfully"
+    }
+  },
+
+  "slide": {
+    "description1": "Welcome to our fashion world, where passion is reflected in every product. Explore now to find your unique style!",
+    "job1": "Fashion Enthusiast",
+    "description2": "Discover our diverse and quality fashion collection to create your own distinctive style!",
+    "job2": "Founder Fashion Store",
+    "description3": "Always stay updated with the latest trends, we're here to help you build a confident and unique fashion style!",
+    "job3": "Founder Fashion Store",
+    "description4": "We constantly update the latest fashion trends to help you feel more confident every day!",
+    "job4": "Fashion Store"
+  },
+
+  "login": {
+    "title": "Sign In",
+    "title-sub": "Please fill your detail to access your Account",
+    "email": "Email Address",
+    "email-ex": "Enter Email Address",
+    "email-err": "Invalid Email",
+    "password": "Password",
+    "password-ex": "Enter Password",
+    "password-err": "Password is at least 6 characters",
+    "forgot": "Forgot Password?",
+    "or": "or Sign In with",
+    "gg": "Sign In With Google",
+    "dont": "Don't have an account?",
+    "signup": "Sign Up Now"
+  },
+
+  "signup": {
+    "title": "Sign Up",
+    "title-sub": "Fill your information below to create your account",
+    "name": "Full Name",
+    "name-ex": "Enter your name",
+    "name-err": "Name should be at least 2 characters",
+    "confirm": "Confirm Password",
+    "same": "Password is not matching",
+    "agree": "Agree with",
+    "terms": "Terms & Conditions",
+    "and": "and",
+    "privacy": "Privacy Policy",
+    "already": "Already have an account?",
+    "login": "Sign In Now",
+    "toast": "Please confirm with the terms & conditions"
+  },
+  "profile": {
+    "title": "Complete Your Profile",
+    "subtitle": "Don't worry, only you can see your personal data.",
+    "photo": "Profile Photo (Optinal)",
+    "phone": "Phone",
+    "phone-ex": "Enter Phone Number",
+    "phone-err": "Invalid Phone Number",
+    "gender": "Gender",
+    "gender-ex": "Select gender",
+    "gender-err": "Please select gender",
+    "male": "Male",
+    "female": "Female",
+    "button": "Complete Profile",
+    "choose": "Choose a Photo"
+  },
+
+  "account": {
+    "required": "You have to login to use this features",
+    "login": "Login Now",
+    "sidebar": {
+      "personal": "Personal Information",
+      "order": "My Orders",
+      "address": "Manage Address",
+      "pass": "Password Manager",
+      "logout": "Logout"
+    },
+    "personal-btn": "Update Changes",
+    "order": {
+      "title": "Orders",
+      "id": "Order ID",
+      "total": "Total Payment",
+      "payment": "Payment Method",
+      "estimated": "Delivery Date",
+
+      "status": {
+        "title": "Your Order is being Processed",
+        "title2":"Your Order has been Delivered",
+        "progress": "In Progress",
+        "delivered": "Delivered",
+        "delivering": "Delivering",
+        "title3": "Your order is being shipped"
+      },
+      "no-order": "You currently do not have any orders, let's go shopping now",
+      "review": "Add Review",
+      "received": "Mark as Received",
+      "success": "Order Status Updated Successfully",
+      "error":"An Error Occurred, Please Try Again Later"
+    },
+    "address-title": "Add New Address",
+    "address-btn": "Add Address",
+    "address-success": "New Address Was Successfully Added",
+    "address-delete": "Remove Address Successfully",
+
+    "psw": {
+      "current": "Current Password",
+      "new": "New Password",
+      "confirm": "Confirm New Password",
+      "btn": "Update Password"
+    },
+
+    "logout": {
+      "title": "Logout",
+      "subtitle": "Are you sure you want to log out?",
+      "btn": "Yes, Logout",
+      "toast": "Logout Successfully!"
+    }
+    
+  },
+  "search": "Find Your Products",
+  "no-search": "No results found for the keyword",
+
+  "signup-err": "Email Already Exist!",
+  "signup-success": "Account Created Successfully!",
+  "user-success": "User Information Created Successfully",
+  "infor-success" : "User Information Updated Successfully",
+  "no-products": "No Products Found! Please Filter by Others Category",
+
+  "notfound": "Sorry, page not found!",
+  "notfound-sub": "  Sorry, we couldn’t find the page you’re looking for.",
+  "nfbtn": "Go Back Home",
+
+
+  "page-title": {
+    "shop": "Shop",
+    "shop-sub": "Discover Our Products",
+    "product": "Product Details",
+    "product-sub": "Product Detail Information",
+    "cart": "Shopping Cart",
+    "cart-sub": "Your Cart Information",
+    "wishlist": "Wishlist",
+    "wishlist-sub": "Wishlist Product",
+    "checkout": "Checkout",
+    "checkout-sub": "Checkout Step",
+    "account": "My Account",
+    "account-sub": "Track Account Information"
+  },
+
+  "helmet": {
+    "home": "aaaaaaaaaaaaaaaaaaa",
+    "shop": "Shop",
+    "product": "Product",
+    "cart": "Cart",
+    "wishlist": "Wishlist",
+    "checkout": "Checkout",
+    "account": "My Account",
+    "auth": "Authentication"
+  },
+
+  "toast": {
+    "cart": {
+      "success": "Added Product Success",
+      "err": "Unable Adding Product"
+    }
+  },
+
+  "review": {
+    "title": "Add Your Review",
+    "subtitle": "Your email address will not be published, Required fields are marked *",
+    "name": "Review for Product",
+    "rating": "Your rating",
+    "review": "Add Detailed Review",
+    "review-ex": "Write here",
+    "comment-err": "Your review need at least 10 characters",
+    "btn": "Create Review"
+  }
+}

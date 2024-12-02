@@ -1,0 +1,445 @@
+{
+  "header": {
+    "shop": "Cửa hàng",
+    "women": "Nữ",
+    "men": "Nam",
+    "kid": "Trẻ con",
+    "accessories": "Phụ kiện",
+    "about": "Về chúng tôi",
+    "contact": "Liên hệ",
+    "category": "Danh mục sản phẩm",
+
+    "language": {
+      "vn": "Tiếng Việt",
+      "en": "Tiếng Anh"
+    }
+  },
+
+  "footer": {
+    "description": "Online  store, Fashion Store hàng có sẵn tại Hà Nội - Hồ Chí Minh & nhận order hàng về sau 5->10 ngày",
+    "company": {
+      "title": "Công ty",
+      "about": "Về chúng tôi",
+      "blog": "Blog",
+      "contact": "Liên hệ",
+      "carrer": "Sự nghiệp"
+    },
+    "customer": {
+      "title": "Người dùng",
+      "account": "Tài khoản của tôi",
+      "order": "Đơn hàng",
+      "return": "Chính sách hoàn trả",
+      "faq": "Câu hỏi thường gặp"
+    },
+    "in4": {
+      "title": "Thông tin",
+      "account": "Riêng tư",
+      "order": "Điều khoản",
+      "return": "Chính sách hoàn trả",
+      "faq": "Lịch sử hình thành"
+    },
+    "contact": {
+      "title": "Thông tin liên hệ",
+      "account": "0123456789",
+      "order": "Thư điện tử",
+      "return": "Vị trí",
+      "faq": "Mở cửa 24/7"
+    },
+    "copyright": "Fashion Store"
+  },
+
+  "homepage": {
+    "banner": {
+      "title": "Bước theo Phong Cách: Điểm đến thời trang của bạn",
+      "description": "Điểm đến dành cho những người đam mê thời trang, nơi bạn có thể khám phá và kết hợp những phong cách thời trang độc đáo và đẳng cấp nhất.",
+      "button": "Khám phá ngay"
+    },
+
+    "policy": {
+      "shipping": {
+        "title": "Miễn phí vận chuyển",
+        "detail": "Cho đơn hàng giá trị trên 5 triệu đồng"
+      },
+      "payment": {
+        "title": "Bảo mật thông tin",
+        "detail": "Thông tin được bảo mật an toàn"
+      },
+      "support": {
+        "title": "Hỗ trợ 24/7",
+        "detail": "Hỗ trợ trực tuyến cả ngày"
+      }
+    },
+
+    "product": {
+      "items": "Vật phẩm",
+      "shoes": {
+        "title": "Giày - Dép",
+        "all": "Tất cả sản phẩm"
+      },
+      "clothes": {
+        "title": "Trang phục",
+        "blazer": "Blazer",
+        "shirt": "Áo phông & Áo sơ mi",
+        "jeans": "Quần Jean",
+        "jacket": "Áo khoác",
+        "all": "Tất cả trang phục"
+      },
+      "access": {
+        "title": "Phụ kiện",
+        "watch": "Đồng hồ",
+        "bag": "Túi xách",
+        "glass": "Kính",
+        "necklace": "Vòng cổ",
+        "all": "Tất cả phụ kiện"
+      }
+    },
+
+    "top-sell": {
+      "title": "Sản phẩm",
+      "description": "Sản phẩm bán chạy",
+      "category": {
+        "all": "Tất cả",
+        "women": "Nữ",
+        "men": "Nam",
+        "accessories": "Phụ kiện"
+      }
+    },
+
+    "suggest": "Sản phẩm gợi ý",
+
+    "follow": {
+      "title": "Theo dõi chúng tôi",
+      "subtitle": "Theo dõi chúng tôi qua mạng xã hội"
+    }
+  },
+  "products": {
+    "filter": {
+      "title": "Tùy chọn lọc",
+      "gender": {
+        "title": "Giới tính",
+        "men": "Nam",
+        "women": "Nữ",
+        "kid": "Trẻ con",
+        "uni": "Unisex"
+      },
+      "category": {
+        "title": "Thể loại",
+        "shoe": "Giày",
+        "clothes": "Quần áo",
+        "accessories": "Phụ kiện",
+        "other": "Khác"
+      },
+      "brand": "Hãng",
+      "price": "Giá",
+      "color": "Màu sắc",
+      "size": "Kích thước",
+      "done": "Áp dụng"
+    },
+    "show": "Hiển thị",
+    "of": "trên",
+    "result": "kết quả",
+    "sort": {
+      "title": "Sắp xếp theo:",
+      "default": "Sắp xếp mặc định",
+      "alpha": "Bảng chữ cái"
+    },
+    "active": "Bộ lọc",
+    "clear": "Xóa bộ lọc"
+  },
+
+  "product": {
+    "color": "Màu sắc:",
+    "size": "Kích thước:",
+    "view": "Xem kích thước",
+    "stock": {
+      "out": "Hết hàng",
+      "in": "Còn hàng",
+      "max": "Lượng hàng trong kho đã đạt tới giới hạn"
+    },
+    "quantity": "Số lượng:",
+    "add": "Thêm vào giỏ hàng",
+
+    "description": "Mô tả sản phẩm",
+    "add-infor": {
+      "title": "Thông tin sản phẩm",
+      "feat": "Tính năng",
+      "des": "Mô tả",
+      "material": "Chất liệu",
+      "size": "Kích thước",
+      "color": "Màu sắc",
+      "country": "Nguồn gốc xuất xứ",
+      "brand": "Nhãn hiệu"
+    },
+    "out": "Nhận order hàng về sau 5->10 ngày",
+    "empty": "Không có sản phẩm nào trong giỏ hàng",
+    "review": "Đánh giá",
+    "reviews": "đánh giá",
+    "star": "Sao",
+    "5star": "Sản phẩm tuyệt vời <3",
+    "4star": "Sản phẩm tốt :3",
+    "3star": "Sản phẩm bình thường.",
+    "2star": "Sản phẩm không tốt!",
+    "1star": "Sản phẩm tệ :((",
+    "verify": "Đã xác nhận",
+    "review-list": "Danh sách đánh giá",
+    "new": "Mới nhất",
+    "old": "Cũ nhất",
+    "no-review": "Sản phẩm này hiện chưa có bất kỳ đánh giá nào, mua hàng và để lại reviews đầu tiên nhé!",
+    "related": {
+      "title": "Sản phẩm liên quan",
+      "subtitle": "Khám phá các sản phẩm liên quan"
+    }
+  },
+
+  "cart": {
+    "product": "Sản phẩm",
+    "price": "Giá",
+    "quantity": "Số lượng",
+    "sub": "Tổng",
+    "color": "Màu:",
+    "size": "Kích thước:",
+    "order": {
+      "title": "Đơn hàng",
+      "item": "Vật phẩm",
+      "sub": "Giá",
+      "tax": "Thuế",
+      "total": "Tổng cộng",
+      "ship": "Lưu ý: Giá trên chưa bao gồm phí ship",
+      "proceed": "Thanh toán",
+      "back": "Mua hàng ngay",
+      "login": "Đăng nhập để mua hàng"
+    }
+  },
+
+  "wishlist": {
+    "product": "Sản phẩm",
+    "price": "Giá",
+    "date": "Ngày thêm",
+    "stock": "Tình trạng"
+  },
+
+  "checkout": {
+    "step1": "Thông tin giao hàng",
+    "step2": "Phương thức thanh toán",
+    "step3": "Xác nhận đơn hàng",
+    "address": {
+      "name": "Tên gọi",
+      "ex-name": "VD: anh A / chị B",
+      "required-name": "Tên cần tối thiểu 2 ký tự",
+
+      "phone": "Số điện thoại",
+      "ex-phone": "VD: 0123456789",
+      "required-phone": "Vui lòng nhập đúng số điện thoại",
+
+      "city": "Tỉnh/Thành phố",
+      "ex-city": "Chọn Tỉnh/Thành phố",
+      "required-city": "Hãy chọn Thành phố",
+
+      "district": "Quận/Huyện",
+      "ex-district": "Chọn Quận/Huyện",
+      "required-district": "Hãy chọn Huyện",
+
+      "ward": "Phường/Xã",
+      "ex-ward": "Chọn Phường/Xã",
+      "required-ward": "Hãy chọn Xã",
+
+      "deliver": "Địa chỉ nhận hàng",
+      "ex-deliver": "VD: nhà abc đường xyz",
+      "required-deliver": "Vui lòng nhập địa chỉ nhận hàng",
+
+      "note": "Ghi chú",
+      "ex-note": "Viết ghi chú tại đây (nếu có)"
+    },
+
+    "payment": "Chúng mình hiện chưa hỗ trợ chức năng thanh toán thông qua dịch vụ Web,  liên hệ với tụi mình qua các nền tảng mạng xã hội để thanh toán cho đơn đặt hàng này nhé, Rất cảm ơn bạn <3.",
+
+    "confirm": {
+      "receiver": "Thông tin người nhận",
+      "name": "Tên:",
+      "phone": "SĐT:",
+      "address": "Địa chỉ: ",
+      "note": "Ghi chú:",
+      "no-note": "Không có ghi chú",
+
+      "method": "Phương thức thanh toán",
+      "payment": "Thanh toán thông qua",
+
+      "list": "Danh sách sản phẩm",
+
+      "total": "Thành tiền: ",
+      "shipping": "Số lượng: ",
+      "discount": "Giảm giá: ",
+      "total-pay": "Tổng tiền (gồm VAT): ",
+
+      "button": "Xác nhận đặt hàng",
+      "error": "Có lỗi xảy ra, vui lòng thử lại sau",
+      "success": "Đặt hàng thành công!"
+    }
+  },
+
+  "slide": {
+    "description1": "Chào mừng bạn đến với thế giới thời trang của chúng tôi, nơi mà sự đam mê được thể hiện qua từng sản phẩm. Khám phá ngay để tìm kiếm phong cách riêng của bạn!",
+    "job1": "Người đam mê thời trang",
+    "description2": "Khám phá bộ sưu tập thời trang đa dạng và chất lượng của chúng tôi, để tạo nên phong cách riêng biệt cho bạn!",
+    "job2": "Nhà sáng lập Fashion Store",
+    "description3": "Luôn cập nhật xu hướng mới nhất, chúng tôi sẵn lòng hỗ trợ bạn tạo ra phong cách thời trang tự tin và độc đáo!",
+    "job3": "Nhà sáng lập Fashion Store",
+    "description4": "Chúng tôi luôn cập nhật những xu hướng thời trang mới nhất, giúp bạn tự tin hơn mỗi ngày!",
+    "job4": "Fashion Store"
+  },
+
+  "login": {
+    "title": "Đăng nhập",
+    "title-sub": "Vui lòng điền vào các trường dưới để truy cập vào tài khoản của bạn",
+    "email": "Địa chỉ Email",
+    "email-ex": "Nhập địa chỉ Email của bạn",
+    "email-err": "Email không hợp lệ",
+    "password": "Mật khẩu",
+    "password-ex": "Nhập mật khẩu",
+    "password-err": "Mật khẩu có ít nhất 6 ký tự",
+    "forgot": "Quên mật khẩu?",
+    "or": "hoặc đăng nhập với",
+    "gg": "Đăng nhập với Google",
+    "dont": "Chưa có tài khoản?",
+    "signup": "Đăng ký ngay"
+  },
+
+  "signup": {
+    "title": "Đăng ký",
+    "title-sub": "Điền các thông tin bên dưới để tạo tài khoản",
+    "name": "Họ tên / Tên gọi",
+    "name-ex": "Nhập tên gọi của bạn",
+    "name-err": "Tên cần tối thiểu 2 ký tự",
+    "confirm": "Nhập lại mật khẩu",
+    "same": "Mật khẩu không trùng khớp",
+    "agree": "Đồng ý với",
+    "terms": "Điều khoản & Điều kiện",
+    "and": "và",
+    "privacy": "Chính sách bảo mật",
+    "already": "Đã có tài khoản?",
+    "login": "Đăng nhập ngay"
+  },
+
+  "profile": {
+    "title": "Hoàn thiện thông tin cá nhân",
+    "subtitle": "Chỉ mình bạn có thể xem những thông tin này.",
+    "photo": "Ảnh đại diện (Không bắt buộc)",
+    "phone": "Số điện thoại",
+    "phone-ex": "Nhập số điện thoại",
+    "phone-err": "SĐT không hợp lệ",
+    "gender": "Giới tính",
+    "gender-ex": "Lựa chọn giới tính",
+    "gender-err": "Vui lòng chọn giới tính",
+    "male": "Nam",
+    "female": "Nữ",
+    "button" : "Lưu thông tin",
+    "choose": "Chọn ảnh"
+  },
+
+  "account": {
+    "required": "Vui lòng đăng nhập để xem thông tin tài khoản",
+    "login": "Đăng nhập ngay",
+    "sidebar": {
+      "personal": "Thông tin cá nhân",
+      "order": "Đơn hàng của tôi",
+      "address": "Quản lý địa chỉ",
+      "pass": "Đổi mật khẩu",
+      "logout": "Đăng xuất"
+    },
+    "personal-btn": "Cập nhật thông tin",
+    "order": {
+      "title": "Đơn hàng",
+      "id": "Mã đơn",
+      "total": "Tổng tiền",
+      "payment": "Phương thức thanh toán",
+      "estimated": "Ngày giao hàng",
+
+      "status": {
+        "title": "Đơn hàng của bạn đang được xử lý",
+        "title2": "Đơn hàng đã được giao đến bạn",
+        "progress": "Đang xử lý",
+        "delivered": "Đã giao hàng",
+        "delivering": "Đang giao hàng",
+        "title3": "Đơn hàng đang được vận chuyển"
+      },
+      "no-order": "Bạn chưa có đơn hàng nào, mua sắm và tạo đơn hàng ngay",
+      "review": "Thêm đánh giá",
+      "received": "Đã nhận hàng",
+      "success": "Cập nhật trạng thái thành công!",
+      "error":"Có lỗi xảy ra, vui lòng thử lại sau"
+    },
+    "address-title": "Thêm địa chỉ giao hàng",
+    "address-btn": "Thêm địa chỉ",
+    "address-success": "Thêm địa chỉ thành công",
+    "address-delete": "Xóa địa chỉ thành công",
+
+    "psw": {
+      "current": "Mật khẩu hiện tại",
+      "new": "Mật khẩu mới",
+      "confirm": "Xác nhận mật khẩu",
+      "btn": "Cập nhật mật khẩu"
+    },
+
+    "logout": {
+      "title": "Đăng xuất",
+      "subtitle": "Bạn có chắc là muốn đăng xuất?",
+      "btn": "Đúng, Đăng xuất",
+      "toast": "Đăng xuất thành công!"
+    }
+
+  },
+  "search": "Tìm kiếm sản phẩm",
+  "no-search": "Không tìm thấy kết quả nào cho từ khóa",
+  "signup-err": "Tài khoản đã tồn tại!",
+  "signup-success": "Tạo tài khoản thành công!",
+  "user-success": "Tạo thông tin thành công!",
+  "infor-success" : "Cập nhật thông tin thành công",
+  "no-products": "Không tìm được sản phẩm phù hợp!",
+
+  "notfound": "Trang không tìm thấy!",
+  "notfound-sub": "Xin lỗi, chúng tôi không thể tìm thấy trang bạn đang tìm kiếm.",
+  "nfbtn": "Về Trang Chủ",
+
+  "page-title": {
+    "shop": "Cửa hàng",
+    "shop-sub": "Khám phá sản phẩm của chúng tôi",
+    "product": "Chi tiết sản phẩm",
+    "product-sub": "Thông tin chi tiết sản phẩm",
+    "cart": "Giỏ hàng",
+    "cart-sub": "Sản phẩm của bạn",
+    "wishlist": "Yêu thích",
+    "wishlist-sub": "Sản phẩm yêu thích",
+    "checkout": "Kiểm kê",
+    "checkout-sub": "Kiểm kê đơn hàng",
+    "account": "Tài khoản của tôi",
+    "account-sub": "Theo dõi thông tin tài khoản"
+  },
+
+  "helmet": {
+    "home": "aaaaaaaaaaaaaaaaaaa",
+    "shop": "Cửa hàng",
+    "product": "Sản phẩm",
+    "cart": "Giỏ hàng",
+    "wishlist": "Yêu thích",
+    "checkout": "Thanh toán",
+    "account": "Tài khoản",
+    "auth": "Xác minh danh tính"
+  },
+
+  "toast": {
+    "cart": {
+      "success": "Thêm sản phẩm thành công",
+      "err": "Không thể thêm sản phẩm"
+    }
+  },
+  "review": {
+    "title": "Thêm đánh giá",
+    "subtitle": "Email của bạn sẽ không hiển thị, những trường bắt buộc được đánh dấu *",
+    "name": "Đánh giá cho sản phẩm",
+    "rating": "Đánh giá của bạn",
+    "review": "Đánh giá chi tiết",
+    "review-ex": "Viết đánh giá của bạn",
+    "comment-err": "Cần tối thiểu 10 ký tự để đánh giá",
+    "btn": "Tạo đánh giá"
+  }
+}
